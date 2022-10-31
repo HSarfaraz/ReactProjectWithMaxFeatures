@@ -1,0 +1,307 @@
+{
+  "interviews": [
+    {
+      "id": "Mic50145",
+      "name": "Michael Lawson",
+      "email": "michael.lawson@mycompany.com",
+      "phone": "9876543210",
+      "experience": "0+",
+      "interviewDetails": {
+        "date": "1/1/2020",
+        "careerStageApplied": "Junior Associate",
+        "outcome": "Selected",
+        "careerStageSelected": "Junior Associate"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "Vip50145",
+      "name": "Vipin",
+      "email": "vipin.giri@mycompany.com",
+      "phone": "9876543210",
+      "experience": "9+",
+      "interviewDetails": {
+        "date": "1/1/2020",
+        "careerStageApplied": "Associate L2",
+        "outcome": "Rejected",
+        "careerStageSelected": "Associate L2"
+      },
+      "interviwerId": 123459
+    },
+    {
+      "id": "Tob50145",
+      "name": "Tobias",
+      "email": "tobias.funke@mycompany.com",
+      "phone": "9876543210",
+      "experience": "15+",
+      "interviewDetails": {
+        "date": "1/1/2020",
+        "careerStageApplied": "Manager",
+        "outcome": "Rejected",
+        "careerStageSelected": "Manager"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "Byr50145",
+      "name": "Byron",
+      "email": "byron.fields@mycompany.com",
+      "phone": "9876543210",
+      "experience": "10+",
+      "interviewDetails": {
+        "date": "1/1/2020",
+        "careerStageApplied": "Sr. Associate L2",
+        "outcome": "Rejected",
+        "careerStageSelected": "Sr. Associate L2"
+      },
+      "interviwerId": 123459
+    },
+    {
+      "id": "Geo50145",
+      "name": "George",
+      "email": "george.edwards@mycompany.com",
+      "phone": "9876543210",
+      "experience": "7+",
+      "interviewDetails": {
+        "date": "1/1/2020",
+        "careerStageApplied": "Sr. Associate L1",
+        "outcome": "Selected",
+        "careerStageSelected": "Sr. Associate L1"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "Jit50145",
+      "name": "Jitendra",
+      "email": "jitendra.kumar@mycompany.com",
+      "phone": "9876543210",
+      "experience": "25+",
+      "interviewDetails": {
+        "date": "1/1/2020",
+        "careerStageApplied": "Sr. Manager",
+        "outcome": "Selected",
+        "careerStageSelected": "Sr. Manager"
+      },
+      "interviwerId": 123459
+    },
+    {
+      "id": "Moh50145",
+      "name": "Mohit",
+      "email": "mohit.kanojia@mycompany.com",
+      "phone": "9876543210",
+      "experience": "5+",
+      "interviewDetails": {
+        "date": "1/10/2020",
+        "careerStageApplied": "Sr. Associate L1",
+        "outcome": "Selected",
+        "careerStageSelected": "Sr. Associate L1"
+      },
+      "interviwerId": 123459
+    },
+    {
+      "id": "Ash50145",
+      "name": "Ashita",
+      "email": "ashita.khasgiwal@mycompany.com",
+      "phone": "9876543210",
+      "experience": "20+",
+      "interviewDetails": {
+        "date": "1/10/2020",
+        "careerStageApplied": "Sr. Manager",
+        "outcome": "Selected",
+        "careerStageSelected": "Sr. Manager"
+      },
+      "interviwerId": 123459
+    },
+    {
+      "id": "Kan50145",
+      "name": "Kanika",
+      "email": "kanika.bijlani@mycompany.com",
+      "phone": "9876543210",
+      "experience": "20+",
+      "interviewDetails": {
+        "date": "1/10/2020",
+        "careerStageApplied": "Sr. Manager",
+        "outcome": "Selected",
+        "careerStageSelected": "Sr. Manager"
+      },
+      "interviwerId": 123459
+    },
+    {
+      "id": "Vid50145",
+      "name": "Vidya Dhulapnnavar",
+      "email": "a@b.com",
+      "phone": "8341750154",
+      "experience": "4",
+      "interviewDetails": {
+        "date": "8/9/2022",
+        "careerStageApplied": "Associate L2",
+        "outcome": "Rejected",
+        "careerStageSelected": "Associate L2"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "Pra07639",
+      "name": "Prannoy Arora",
+      "email": "a@b.com",
+      "phone": "8341750158",
+      "experience": "4",
+      "interviewDetails": {
+        "date": "20/9/2022",
+        "careerStageApplied": "Manager",
+        "outcome": "Selected",
+        "careerStageSelected": "Manager"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "sar70476",
+      "name": "Sarfaraz Hussain",
+      "email": "aa@gmail.co",
+      "phone": "8341750157",
+      "experience": "2",
+      "interviewDetails": {
+        "date": "15/9/2022",
+        "careerStageApplied": "Associate L2",
+        "outcome": "Rejected",
+        "careerStageSelected": "Associate L2"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "sar44093",
+      "name": "Sarfaraz Hussain",
+      "email": "rachel.howell@mycompany.com",
+      "phone": "8341750157",
+      "experience": "22",
+      "interviewDetails": {
+        "date": "6/9/2022",
+        "careerStageApplied": "Associate L2",
+        "outcome": "Rejected",
+        "careerStageSelected": "Associate L2"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "Pra77697",
+      "name": "Pranav Rai",
+      "email": "a@b.com",
+      "phone": "8341750157",
+      "experience": "22",
+      "interviewDetails": {
+        "date": "13/9/2022",
+        "careerStageApplied": "Associate L1",
+        "outcome": "Selected",
+        "careerStageSelected": "Associate L1"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "sar48175",
+      "name": "Sarfaraz Hussain",
+      "email": "rachel.howell@mycompany.com",
+      "phone": "8341750157",
+      "experience": "22",
+      "interviewDetails": {
+        "date": "8/9/2022",
+        "careerStageApplied": "Associate L2",
+        "outcome": "Rejected",
+        "careerStageSelected": "Associate L2"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "sar92340",
+      "name": "Sarfaraz Hussain",
+      "email": "a@gmail.com",
+      "phone": "8341750157",
+      "experience": "33",
+      "interviewDetails": {
+        "date": "7/9/2022",
+        "careerStageApplied": "Associate L2",
+        "outcome": "Rejected",
+        "careerStageSelected": "Associate L2"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "aa25946",
+      "name": "Aa Bb",
+      "email": "a@gmail.com",
+      "phone": "8341750157",
+      "experience": "22",
+      "interviewDetails": {
+        "date": "6/9/2022",
+        "careerStageApplied": "Associate L2",
+        "outcome": "Selected",
+        "careerStageSelected": "Associate L2"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "vir38595",
+      "name": "Virat Kohli",
+      "email": "a@gmail.com",
+      "phone": "8341750157",
+      "experience": "22",
+      "interviewDetails": {
+        "date": "14/9/2022",
+        "careerStageApplied": "Manager",
+        "outcome": "Selected",
+        "careerStageSelected": "Manager"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "sas15725",
+      "name": "Sas Asasa",
+      "email": "a@b.com",
+      "phone": "8765432198",
+      "experience": "22",
+      "interviewDetails": {
+        "date": "14/9/2022",
+        "careerStageApplied": "Associate L2",
+        "outcome": "Rejected",
+        "careerStageSelected": "Associate L2"
+      },
+      "interviwerId": 123457
+    },
+    {
+      "id": "asd02951",
+      "name": "Asdas Adas",
+      "email": "a@gmail.com",
+      "phone": "8341750157",
+      "experience": "2",
+      "interviewDetails": {
+        "date": "7/10/2022",
+        "careerStageApplied": "Associate L1",
+        "outcome": "Selected",
+        "careerStageSelected": "Associate L1"
+      },
+      "interviwerId": 123457
+    }
+  ],
+  "interviewer": [
+    {
+      "name": "Michael",
+      "oracleId": 123456,
+      "email": "michael.lawson@mycompany.com",
+      "careerStage": "Sr. Associate L1",
+      "role": "user"
+    },
+    {
+      "name": "Rachel",
+      "oracleId": 123459,
+      "email": "rachel.howell@mycompany.com",
+      "careerStage": "Sr. Associate  L2",
+      "role": "user"
+    },
+    {
+      "name": "Lindsay",
+      "oracleId": 123457,
+      "email": "lindsay.ferguson@mycompany.com",
+      "careerStage": "Sr. Manager",
+      "role": "admin"
+    }
+  ]
+}

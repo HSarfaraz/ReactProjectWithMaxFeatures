@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test the login component should render login component correctly 1`] = `
+<DocumentFragment>
+  <div>
+    <form>
+      <div
+        className="sc-bczRLJ sc-dkzDqf bqrCNG ejwePW"
+      >
+        <header
+          className="sc-hKMtZM iGbshS"
+        >
+          <h1
+            className="sc-jSMfEi emWAPi"
+          >
+            Log in
+          </h1>
+        </header>
+        <div
+          className="sc-gKXOVf dFeWCX"
+        >
+          <fieldset
+            className="sc-iBkjds cXEpGZ"
+          >
+            <label>
+              Email address
+            </label>
+            <input
+              className="sc-ftvSup eicDkB"
+              placeholder="Enter Email"
+              type="email"
+              value=""
+            />
+          </fieldset>
+          <fieldset
+            className="sc-iBkjds cXEpGZ"
+          >
+            <label>
+              Password
+            </label>
+            <input
+              className="sc-ftvSup eicDkB"
+              placeholder="Enter Password"
+              type="password"
+              value=""
+            />
+            <span
+              className="sc-papXJ jZhlPj fa fa-eye"
+            />
+          </fieldset>
+          <fieldset
+            className="sc-iBkjds cXEpGZ"
+          >
+            <button
+              className="sc-crXcEl gGqYCz"
+              type="submit"
+            >
+              Log in
+            </button>
+          </fieldset>
+        </div>
+      </div>
+    </form>
+  </div>
+</DocumentFragment>
+`;
